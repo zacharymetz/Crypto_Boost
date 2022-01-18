@@ -1,0 +1,40 @@
+.account-page-wrapper{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: stretch;
+}
+.account-page-nav{
+    border-right:1px solid rgb(0,0,0,0.3);
+    transition: all .3s ease-in-out;
+}
+.account-page-nav-item{
+    padding:1rem;
+    color:rgb(0,0,0,0.5);
+    text-align: right;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    font-weight: 600;
+    cursor: pointer;
+    border-right: 3px solid white;
+    transition: all .3s ease-in-out;
+}
+.account-page-content{
+    flex-grow: 1;
+    padding:1rem;
+}
+.account-content-section{
+    margin-bottom: 1rem;
+}
+.account-content-section-header{
+    font-size: 1.25rem;
+    letter-spacing: 1px;
+    margin-bottom: 0.75rem;
+}
+.account-content-section-divider{
+    margin-top: 1rem;
+    border-bottom:1px solid rgb(0,0,0,0.2 );
+}
+.account-page-content p{
+    font-size: 0.8rem;
+}

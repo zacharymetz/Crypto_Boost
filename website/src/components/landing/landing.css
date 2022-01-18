@@ -1,0 +1,78 @@
+
+
+
+.main-brand-wrapper{
+    
+    display: flex;
+    flex-direction: column;
+    height: 550px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.site-nav-brand{
+    margin-left: 1.5rem;
+}
+
+.main-brand{
+    height: 16rem;
+}
+.site-nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.brand-image{
+    background-image: url(./gambling.svg);
+    height: 2.5rem;
+    width: 2.5rem;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:0.75rem;
+}
+.site-nav-menu{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.site-nav-action{
+    display: flex;
+    margin-right: 1.5rem;
+}
+.user-icon{
+    background-image: url(./user.svg);
+    height: 1.5rem;
+    width: 1.5rem;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:0.75rem;
+    cursor: pointer;
+    margin-left: 0.25rem;
+}
+.logout-icon{
+    background-image: url(./logout.svg);
+    height: 1.5rem;
+    width: 1.5rem;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:0.75rem;
+    cursor: pointer;
+    margin-left: 0.25rem;
+}
+.affiliate-icon{
+    background-image: url(./affiliate.svg);
+    height: 1.5rem;
+    width: 1.5rem;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:0.75rem;
+    cursor: pointer;
+    margin-left: 0.25rem;
+}

@@ -1,0 +1,15 @@
+.session-history-wrapper{
+    
+    margin-top: 0rem;
+    background-color: #0d0e20;
+    padding:0.25rem;
+    color :white;
+    overflow-y: none;
+    display: flex;
+    transition: all .3s ease-in-out;
+    
+}
+.payout-history-element{
+    margin-right:0.75rem;
+    transition: all .3s ease-in-out;
+}

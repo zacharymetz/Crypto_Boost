@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/demos/boostgame/static/css/main.ea751c1b.chunk.css",
+    "main.js": "/demos/boostgame/static/js/main.71cc3edd.chunk.js",
+    "main.js.map": "/demos/boostgame/static/js/main.71cc3edd.chunk.js.map",
+    "runtime-main.js": "/demos/boostgame/static/js/runtime-main.26f73555.js",
+    "runtime-main.js.map": "/demos/boostgame/static/js/runtime-main.26f73555.js.map",
+    "static/js/2.c1ec6317.chunk.js": "/demos/boostgame/static/js/2.c1ec6317.chunk.js",
+    "static/js/2.c1ec6317.chunk.js.map": "/demos/boostgame/static/js/2.c1ec6317.chunk.js.map",
+    "index.html": "/demos/boostgame/index.html",
+    "precache-manifest.e1a7820069104d686f918e74d7e9a340.js": "/demos/boostgame/precache-manifest.e1a7820069104d686f918e74d7e9a340.js",
+    "service-worker.js": "/demos/boostgame/service-worker.js",
+    "static/css/main.ea751c1b.chunk.css.map": "/demos/boostgame/static/css/main.ea751c1b.chunk.css.map",
+    "static/media/BAT.svg": "/demos/boostgame/static/media/BAT.8ebed5e7.svg",
+    "static/media/Bitcoin.svg": "/demos/boostgame/static/media/Bitcoin.d7876d48.svg",
+    "static/media/XRP.svg": "/demos/boostgame/static/media/XRP.d47fb469.svg",
+    "static/media/bank.svg": "/demos/boostgame/static/media/bank.f306cda7.svg",
+    "static/media/betacoin.png": "/demos/boostgame/static/media/betacoin.22a9cab5.png",
+    "static/media/betacoin1.svg": "/demos/boostgame/static/media/betacoin1.32f9a94e.svg",
+    "static/media/header.css": "/demos/boostgame/static/media/information.f99af8e9.svg",
+    "static/media/dogecoin.svg": "/demos/boostgame/static/media/dogecoin.605642c7.svg",
+    "static/media/eos.svg": "/demos/boostgame/static/media/eos.81713350.svg",
+    "static/media/ethereum.svg": "/demos/boostgame/static/media/ethereum.18708d3e.svg",
+    "static/media/information-dark.svg": "/demos/boostgame/static/media/information-dark.19072fe2.svg",
+    "static/media/isk.png": "/demos/boostgame/static/media/isk.804ad7d2.png",
+    "static/media/litecoin.svg": "/demos/boostgame/static/media/litecoin.c151518b.svg",
+    "static/media/monero.svg": "/demos/boostgame/static/media/monero.f9caaf1e.svg",
+    "static/media/index.css": "/demos/boostgame/static/media/spring-swing-rocket.f8bbed12.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f73555.js",
+    "static/js/2.c1ec6317.chunk.js",
+    "static/css/main.ea751c1b.chunk.css",
+    "static/js/main.71cc3edd.chunk.js"
+  ]
+}

@@ -1,0 +1,88 @@
+.betting-pannel-wrapper{
+    
+    background-color: #0d0e20;
+    color:white;
+    width: 275px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+}
+.bet-type-selector{
+    display: flex;
+    padding:0.5rem;
+}
+.bet-type-selector > button{
+    flex-grow: 1;
+}
+
+
+.manual-bet-pannel{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.auto-bet-pannel{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-around;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+.bet-row{
+    display: flex;
+    padding:0.5rem;
+
+}
+.bet-col{
+    flex-grow: 1;
+}
+
+.session-wagers-header{
+    display: flex;
+    padding:0.25rem 0.5rem;
+    font-size: 0.8rem;
+}
+
+.session-wagers-players{
+    flex-grow: 1;
+}
+
+.betting-session-wagers{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+
+}
+
+
+.session-wager-list{
+    flex-grow: 1;
+    
+    overflow-y: scroll;
+}
+.session-wager-list-item{
+    display: flex;
+    padding:0.01rem 0.5rem;
+}
+.session-wager-list-item:nth-child(2n){
+    background-color: rgb(255,255,255,0.15);
+}
+.session-wager-player-name{
+    flex-grow: 1;
+}
+
+
+
+
+
+
+
+

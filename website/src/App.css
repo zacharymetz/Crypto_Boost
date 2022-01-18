@@ -1,0 +1,14 @@
+.App {
+  background-color: #eeeeee;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color:white;
+}
+
+.content{
+  /* this is not a good fix btw  */
+  margin-top: 4.5rem;
+  flex-grow: 1;
+}

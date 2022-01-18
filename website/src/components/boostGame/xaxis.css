@@ -1,0 +1,19 @@
+.x-axis-element{
+    background-color:#141629;
+    height: 24px;
+    position: relative;
+    overflow: hidden;
+    
+}
+.xaxis-tick-wrapper{
+    position: absolute;
+    font-size:0.75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.xaxis-tick{
+    width: 3px;
+    height: 6px;
+    background-color:white;
+}
