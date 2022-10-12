@@ -1,2 +1,2 @@
 # Crypto_Boost
- Meant to be a clone of roobet crash
+ A Clone of roobet crash
